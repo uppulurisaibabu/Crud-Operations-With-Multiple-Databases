@@ -1,0 +1,13 @@
+pymongo
+neo4j
+pinecone-client
+redis
+influxdb-client
+python-dotenv
+psycopg2-binary
+
+
+
+### To install all the dependencies listed in the file, run the following command:
+
+pip install -r requirements.txt
